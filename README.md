@@ -120,7 +120,8 @@ Permite observar la evolución del consumo energético a lo largo del tiempo.
 ### Resultado
 
 <p align="center">
-  <img width="1014" height="471" alt="image" src="https://github.com/user-attachments/assets/71fe7302-b1fa-433a-8b18-668ab86ba822" />
+<img width="1014" height="471" alt="image" src="https://github.com/user-attachments/assets/d590f9ff-cf82-49d6-bb59-6c7dfb2cbce0" />
+
 
 </p>
 
@@ -133,7 +134,8 @@ Permite analizar la distribución de frecuencias del consumo energético.
 ### Resultado
 
 <p align="center">
-  <img width="691" height="471" alt="image" src="https://github.com/user-attachments/assets/921d44ce-2f2f-489e-91ac-3925406c3934" />
+<img width="686" height="471" alt="image" src="https://github.com/user-attachments/assets/5e008ffe-cddb-4ccc-9548-81d280f5efde" />
+
 
 </p>
 
@@ -146,7 +148,8 @@ Relación entre la producción diaria y el consumo energético.
 ### Resultado
 
 <p align="center">
-<img width="705" height="471" alt="image" src="https://github.com/user-attachments/assets/69ba3e53-1d6f-4a22-bf3c-bf5e4f2917a7" />
+<img width="704" height="471" alt="image" src="https://github.com/user-attachments/assets/30de2061-c15f-4201-994c-034a05f4d441" />
+
 
 
 </p>
@@ -162,7 +165,7 @@ Permite identificar relaciones entre las variables numéricas.
 ### Resultado
 
 <p align="center">
-<img width="774" height="676" alt="image" src="https://github.com/user-attachments/assets/e0e616ea-4840-4f1e-8940-3d92459ffe3b" />
+<img width="803" height="706" alt="image" src="https://github.com/user-attachments/assets/62285fb0-da07-4f8c-a7e3-7d0dbea118dc" />
 
 </p>
 
@@ -175,7 +178,8 @@ Visualización simultánea de relaciones entre variables.
 ### Resultado
 
 <p align="center">
-  <img width="1231" height="1231" alt="image" src="https://github.com/user-attachments/assets/434072fd-dbd3-43c3-9157-18606955b2e8" />
+<img width="1231" height="1231" alt="image" src="https://github.com/user-attachments/assets/f7cd235d-1243-400b-9900-24cb7bd9846e" />
+
 
 </p>
 
@@ -188,7 +192,8 @@ Permite observar tendencias y relaciones lineales.
 ### Resultado
 
 <p align="center">
-  <img width="704" height="471" alt="image" src="https://github.com/user-attachments/assets/d1297edd-468a-4cbf-90b0-9745395b4589" />
+<img width="704" height="471" alt="image" src="https://github.com/user-attachments/assets/e11bef30-97e8-4da2-b8f0-cc27b102a117" />
+
 
 </p>
 
