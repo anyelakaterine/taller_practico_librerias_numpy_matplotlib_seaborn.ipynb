@@ -21,7 +21,7 @@ Asignatura: Inteligencia Artificial
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Analysis-red)
 
 </p>
----
+
 <h2 align="center">📑 Tabla de Contenido</h2>
 
 <p align="center">
@@ -60,7 +60,6 @@ Asignatura: Inteligencia Artificial
 <a href="#licencia">Licencia</a>
 </p>
 
----
 ---
 
 # Descripción del Proyecto
