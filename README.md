@@ -22,37 +22,54 @@ Asignatura: Inteligencia Artificial
 
 </p>
 ---
+<p align="center">
 
 # Tabla de Contenido
 
+</p>
+
+## 1. Información General
 - [Descripción del Proyecto](#descripción-del-proyecto)
 - [Objetivos](#objetivos)
   - [Objetivo General](#objetivo-general)
   - [Objetivos Específicos](#objetivos-específicos)
 - [Integrantes](#integrantes)
 - [Información Académica](#información-académica)
+
+## 2. Preparación de los Datos
 - [Variables del Dataset](#variables-del-dataset)
 - [Herramientas Utilizadas](#herramientas-utilizadas)
+
+## 3. Análisis Estadístico
 - [Análisis Estadístico con NumPy](#análisis-estadístico-con-numpy)
-- [Visualizaciones con Matplotlib](#visualizaciones-con-matplotlib)
-  - [Serie Temporal del Consumo Energético](#serie-temporal-del-consumo-energético)
-  - [Histograma del Consumo Energético](#histograma-del-consumo-energético)
-  - [Gráfico de Dispersión](#gráfico-de-dispersión)
-- [Análisis Exploratorio con Seaborn](#análisis-exploratorio-con-seaborn)
-  - [Heatmap de Correlación](#heatmap-de-correlación)
-  - [Pairplot](#pairplot)
-  - [Regplot](#regplot)
+
+## 4. Visualización de Datos con Matplotlib
+- [Serie Temporal del Consumo Energético](#serie-temporal-del-consumo-energético)
+- [Histograma del Consumo Energético](#histograma-del-consumo-energético)
+- [Gráfico de Dispersión](#gráfico-de-dispersión)
+
+## 5. Análisis Exploratorio con Seaborn
+- [Heatmap de Correlación](#heatmap-de-correlación)
+- [Pairplot](#pairplot)
+- [Regplot](#regplot)
+
+## 6. Resultados y Discusión
 - [Resultados del Análisis](#resultados-del-análisis)
 - [Preguntas del Taller](#preguntas-del-taller)
 - [Propuesta de Optimización Energética](#propuesta-de-optimización-energética)
+
+## 7. Conclusiones y Aprendizajes
 - [Conclusiones](#conclusiones)
 - [Aprendizajes Obtenidos](#aprendizajes-obtenidos)
 - [Trabajo Futuro](#trabajo-futuro)
+
+## 8. Implementación
 - [Instalación](#instalación)
 - [Ejecución](#ejecución)
+
+## 9. Información Legal
 - [Licencia](#licencia)
 
----
 ---
 
 # Descripción del Proyecto
