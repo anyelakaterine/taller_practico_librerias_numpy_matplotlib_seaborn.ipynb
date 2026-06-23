@@ -21,7 +21,38 @@ Asignatura: Inteligencia Artificial
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Analysis-red)
 
 </p>
+---
 
+# Tabla de Contenido
+
+- [Descripción del Proyecto](#descripción-del-proyecto)
+- [Objetivos](#objetivos)
+  - [Objetivo General](#objetivo-general)
+  - [Objetivos Específicos](#objetivos-específicos)
+- [Integrantes](#integrantes)
+- [Información Académica](#información-académica)
+- [Variables del Dataset](#variables-del-dataset)
+- [Herramientas Utilizadas](#herramientas-utilizadas)
+- [Análisis Estadístico con NumPy](#análisis-estadístico-con-numpy)
+- [Visualizaciones con Matplotlib](#visualizaciones-con-matplotlib)
+  - [Serie Temporal del Consumo Energético](#serie-temporal-del-consumo-energético)
+  - [Histograma del Consumo Energético](#histograma-del-consumo-energético)
+  - [Gráfico de Dispersión](#gráfico-de-dispersión)
+- [Análisis Exploratorio con Seaborn](#análisis-exploratorio-con-seaborn)
+  - [Heatmap de Correlación](#heatmap-de-correlación)
+  - [Pairplot](#pairplot)
+  - [Regplot](#regplot)
+- [Resultados del Análisis](#resultados-del-análisis)
+- [Preguntas del Taller](#preguntas-del-taller)
+- [Propuesta de Optimización Energética](#propuesta-de-optimización-energética)
+- [Conclusiones](#conclusiones)
+- [Aprendizajes Obtenidos](#aprendizajes-obtenidos)
+- [Trabajo Futuro](#trabajo-futuro)
+- [Instalación](#instalación)
+- [Ejecución](#ejecución)
+- [Licencia](#licencia)
+
+---
 ---
 
 # Descripción del Proyecto
