@@ -22,47 +22,35 @@ Asignatura: Inteligencia Artificial
 
 </p>
 ---
-## 📑 Tabla de Contenido
+<h2 align="center">📑 Tabla de Contenido</h2>
 
-- **Información General**
-  - [Descripción del Proyecto](#descripción-del-proyecto)
-  - [Objetivos](#objetivos)
-  - [Integrantes](#integrantes)
-  - [Información Académica](#información-académica)
+<p align="center">
 
-- **Preparación de los Datos**
-  - [Variables del Dataset](#variables-del-dataset)
-  - [Herramientas Utilizadas](#herramientas-utilizadas)
+<a href="#descripción-del-proyecto">Descripción del Proyecto</a> •
+<a href="#objetivos">Objetivos</a> •
+<a href="#integrantes">Integrantes</a> •
+<a href="#información-académica">Información Académica</a><br>
 
-- **Análisis Estadístico**
-  - [Análisis Estadístico con NumPy](#análisis-estadístico-con-numpy)
+<a href="#variables-del-dataset">Variables del Dataset</a> •
+<a href="#herramientas-utilizadas">Herramientas Utilizadas</a> •
+<a href="#análisis-estadístico-con-numpy">Análisis Estadístico</a><br>
 
-- **Visualización de Datos**
-  - [Serie Temporal del Consumo Energético](#serie-temporal-del-consumo-energético)
-  - [Histograma del Consumo Energético](#histograma-del-consumo-energético)
-  - [Gráfico de Dispersión](#gráfico-de-dispersión)
+<a href="#visualizaciones-con-matplotlib">Visualizaciones</a> •
+<a href="#análisis-exploratorio-con-seaborn">Análisis Exploratorio</a> •
+<a href="#resultados-del-análisis">Resultados</a><br>
 
-- **Análisis Exploratorio con Seaborn**
-  - [Heatmap de Correlación](#heatmap-de-correlación)
-  - [Pairplot](#pairplot)
-  - [Regplot](#regplot)
+<a href="#preguntas-del-taller">Preguntas del Taller</a> •
+<a href="#propuesta-de-optimización-energética">Optimización Energética</a><br>
 
-- **Resultados y Discusión**
-  - [Resultados del Análisis](#resultados-del-análisis)
-  - [Preguntas del Taller](#preguntas-del-taller)
-  - [Propuesta de Optimización Energética](#propuesta-de-optimización-energética)
+<a href="#conclusiones">Conclusiones</a> •
+<a href="#aprendizajes-obtenidos">Aprendizajes</a> •
+<a href="#trabajo-futuro">Trabajo Futuro</a><br>
 
-- **Conclusiones**
-  - [Conclusiones](#conclusiones)
-  - [Aprendizajes Obtenidos](#aprendizajes-obtenidos)
-  - [Trabajo Futuro](#trabajo-futuro)
+<a href="#instalación">Instalación</a> •
+<a href="#ejecución">Ejecución</a> •
+<a href="#licencia">Licencia</a>
 
-- **Implementación**
-  - [Instalación](#instalación)
-  - [Ejecución](#ejecución)
-
-- **Información Legal**
-  - [Licencia](#licencia)
+</p>
 
 ---
 
