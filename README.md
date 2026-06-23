@@ -22,7 +22,7 @@ Asignatura: Inteligencia Artificial
 
 </p>
 
-# 📑 Tabla de Contenido
+# Tabla de Contenido
 
 1. [Descripción del Proyecto](#descripción-del-proyecto)  
 2. [Objetivos](#objetivos)  
