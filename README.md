@@ -22,43 +22,40 @@ Asignatura: Inteligencia Artificial
 
 </p>
 
-<h2 align="center">📑 Tabla de Contenido</h2>
+# 📑 Tabla de Contenido
 
-<p align="center">
-<a href="#descripción-del-proyecto">Descripción del Proyecto</a> |
-<a href="#objetivos">Objetivos</a> |
-<a href="#integrantes">Integrantes</a> |
-<a href="#información-académica">Información Académica</a>
-</p>
+1. [Introducción](#introducción)  
+   - Objetivo del proyecto  
+   - Contexto y motivación  
 
-<p align="center">
-<a href="#variables-del-dataset">Variables del Dataset</a> |
-<a href="#herramientas-utilizadas">Herramientas Utilizadas</a> |
-<a href="#análisis-estadístico-con-numpy">Análisis Estadístico</a>
-</p>
+2. [Instalación y requisitos](#instalación-y-requisitos)  
+   - Librerías necesarias  
+   - Configuración del entorno en Colab  
 
-<p align="center">
-<a href="#visualizaciones-con-matplotlib">Visualizaciones</a> |
-<a href="#análisis-exploratorio-con-seaborn">Análisis Exploratorio</a> |
-<a href="#resultados-del-análisis">Resultados</a>
-</p>
+3. [Carga de datos](#carga-de-datos)  
+   - Fuentes de datos  
+   - Preprocesamiento inicial  
 
-<p align="center">
-<a href="#preguntas-del-taller">Preguntas del Taller</a> |
-<a href="#propuesta-de-optimización-energética">Optimización Energética</a>
-</p>
+4. [Exploración de datos](#exploración-de-datos)  
+   - Estadísticas descriptivas  
+   - Visualizaciones iniciales  
 
-<p align="center">
-<a href="#conclusiones">Conclusiones</a> |
-<a href="#aprendizajes-obtenidos">Aprendizajes</a> |
-<a href="#trabajo-futuro">Trabajo Futuro</a>
-</p>
+5. [Análisis y modelado](#análisis-y-modelado)  
+   - Técnicas utilizadas  
+   - Resultados obtenidos  
 
-<p align="center">
-<a href="#instalación">Instalación</a> |
-<a href="#ejecución">Ejecución</a> |
-<a href="#licencia">Licencia</a>
-</p>
+6. [Visualización avanzada](#visualización-avanzada)  
+   - Gráficos comparativos  
+   - Interpretación de resultados  
+
+7. [Conclusiones](#conclusiones)  
+   - Hallazgos principales  
+   - Limitaciones del análisis  
+   - Próximos pasos  
+
+8. [Referencias](#referencias)  
+   - Bibliografía  
+   - Recursos adicionales  
 
 ---
 
